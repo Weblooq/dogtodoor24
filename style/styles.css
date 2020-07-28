@@ -10,6 +10,12 @@
     margin: auto;
 }
 
+.index-list > li {
+    text-align: center;
+    margin: 10px;
+    list-style: none;
+}
+
 li {
     text-align: left;
     margin: 10px;
