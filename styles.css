@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content-container {
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin: 10px;
+}
+
+button {
+    width: 200px;
+    height: 30px;
+    margin: 20px;
+}
+
