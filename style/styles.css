@@ -259,17 +259,7 @@ h3{
    height: auto;
 }
 
-#btn21{
-      background: url(instructions/misc/baseline_account_circle_black_48dp.png);
-      width: 80px;
-      height: 80px;
-}
 
-#btn22{
-  background: url(instructions/misc/baseline_account_circle_black_48dp.png) no-repeat;
-  width: 80px;
-  height: 80px;
-}
   }
   @media only screen and (max-width: 768px) {
         img {
