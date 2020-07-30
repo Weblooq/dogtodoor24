@@ -255,31 +255,40 @@ h3{
 }
 
 .top-2-btn > button{
-   width: auto;
+   width: 10%;
    height: auto;
 }
 
 
+
+.fa-eye, .fa-user-circle {
+  font-size: 40px;
+}
+
+@media only screen and (max-width: 768px) {
+      img {
+          width: 100%;
+      }
+
+      h1, h2 {
+          font-size: 17px;
+      }
+
+      h2 {
+          width: 100%;
+      }
+
+      .content-container {
+          width: 80%;
+      }
+
+      .edit {
+          width: 50%;
+          height: auto;
+      }
+
+      .top-2-btn > button{
+        width: 60px;
+        height: 60px;
+     }
   }
-  @media only screen and (max-width: 768px) {
-        img {
-            width: 100%;
-        }
-
-        h1, h2 {
-            font-size: 17px;
-        }
-
-        h2 {
-            width: 100%;
-        }
-
-        .content-container {
-            width: 80%;
-        }
-
-        .edit {
-            width: 50%;
-            height: auto;
-        }
-    }
